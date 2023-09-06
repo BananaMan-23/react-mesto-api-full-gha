@@ -99,7 +99,7 @@ class Api {
 }
 
 const api = new Api({
-    baseUrl: 'api.suvorov.andrey.nomoredomainsicu.ru',
+    baseUrl: 'http://api.suvorov.andrey.nomoredomainsicu.ru'
 });
 
 export default api;
