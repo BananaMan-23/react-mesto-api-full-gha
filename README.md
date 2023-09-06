@@ -11,6 +11,6 @@
 
 IP-адрес 158.160.121.252
 
-Frontend https://...
+Frontend https://suvorov.andrey.nomoredomainsicu.ru
 
-Backend https://...
+Backend https://api.suvorov.andrey.nomoredomainsicu.ru
