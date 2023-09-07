@@ -1,5 +1,4 @@
-const baseUrl = 'api.suvorov.andrey.nomoredomainsicu.ru' //добавить домен
-
+const baseUrl = 'https://api.suvorov.andrey.nomoredomainsicu.ru'
 const _checkResponse = (res) => {
     if (res.ok) return res.json();
     return Promise.reject(`Ошибка ${res.status}`);
